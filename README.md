@@ -1,3 +1,3 @@
-read me
+#read me
 
-first git repo
+first git repo!
